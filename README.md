@@ -49,7 +49,12 @@ This project analyzes supermarket sales data using Excel to generate meaningful 
 
 ## 🖼️ Dashboard Preview
 <img width="1862" height="891" alt="image" src="https://github.com/user-attachments/assets/cf6ac0af-f4b4-435f-b3df-db2fdc135b99" />
+## 👤 Author
 
+**Abhignan Bollam**  
+🎓 Final Year B.Tech (CSE - AIML)  
+📊 Aspiring Data Analyst  
 
-```markdown
-![Dashboard](dashboard.png)
+🔗 LinkedIn: https://linkedin.com/in/abhignan-bollam-7130ab251  
+💻 GitHub: https://github.com/abhignan05  
+📧 Email: abhignanbollam@gmail.com
